@@ -36,6 +36,9 @@ Arrow key: move
 Space: attack  
 M: defense
 
+## Report
+https://github.com/mandy1223ks/CV_final_report/blob/main/CV_final.pdf
+
 ## Contributors
 
 This project exists thanks to all people who contribute.
