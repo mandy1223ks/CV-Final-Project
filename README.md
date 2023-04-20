@@ -39,6 +39,9 @@ M: defense
 ## Report
 https://github.com/mandy1223ks/CV_final_report/blob/main/CV_final.pdf
 
+## Demo
+https://www.youtube.com/watch?v=0Zamq8Xk2AM&ab_channel=%E8%AC%9D%E9%9C%96%E6%B3%B3
+
 ## Contributors
 
 This project exists thanks to all people who contribute.
